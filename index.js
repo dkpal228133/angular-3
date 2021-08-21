@@ -6,3 +6,4 @@ function xyz(){
 }
 console.log("this is fourth committed ");
 console.log(xyz());
+console.log("print bhaiya array");
